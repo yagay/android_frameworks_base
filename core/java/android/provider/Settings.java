@@ -3438,11 +3438,6 @@ public final class Settings {
         public static final String DOUBLE_TAP_SLEEP_GESTURE = "double_tap_sleep_gesture";
 
         /**
-         * @hide
-         */
-        public static final String SHOW_HEADSET_ICON = "show_headset_icon";
-
-        /**
          * Boolean value on whether to show weather in the statusbar
          * @hide
          */
